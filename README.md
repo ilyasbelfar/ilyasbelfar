@@ -1,5 +1,5 @@
 <p align="center">
-👋 Hi there! I'm a MERN stack developer and DevOps enthusiast with a passion for building scalable, high-performance web applications.</p>
+👋 Hi there! I'm a MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack developer and DevOps enthusiast with a passion for building scalable, high-performance web applications.</p>
 
 ### <p align="center">Stats</p>
 
